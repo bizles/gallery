@@ -1,0 +1,8 @@
+/**
+ * Style for gallery
+ */
+#gallery {width: 800px; margin: 0 auto;background-color: #333;padding: 20px;}
+#gallery ul {padding-left: 10px;}
+#gallery li {display: inline; margin-right: 3px;}
+#gallery #main-img {padding: 26px; float: right;}
+#gallery li img {width: 75px; height: 57px;}
